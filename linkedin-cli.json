@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/linkedin-cli/releases/download/v0.1.4/linkedin-cli_0.1.4_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/linkedin-cli/releases/download/v0.1.5/linkedin-cli_0.1.5_windows_amd64.zip",
             "bin": [
                 "linkedin.exe"
             ],
-            "hash": "fbc0b6dc676c0fc1397d3f1cdf1b3581f7a99d668ab69de2a818cfb0fd6d736e"
+            "hash": "d716f4849980b6a5268e906bc79ff1ea3baee2dc635cddc1de682908b6b33783"
         }
     }
 }
